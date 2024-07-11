@@ -1,0 +1,9 @@
+streamlit
+langchain
+langchain_community
+langchain_core
+langchain_google_vertexai
+python-dotenv
+google-generativeai
+faiss-cpu
+beautifulsoup4
